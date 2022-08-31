@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "CryptoPrices.github.io/precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js"
+  "CryptoPrices/precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("CryptoPrices.github.io/index.html", {
+workbox.routing.registerNavigationRoute("CryptoPrices/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
