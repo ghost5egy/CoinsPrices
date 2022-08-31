@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color:white;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  background-color: yellowgreen;
+  color: aliceblue;
+}
+
+.body {
+  color: aliceblue;
+  align-items: center;
+}
+
+.coin{
+  display: flexbox;
+  align-self: center;
+  background-color: rgb(8, 112, 98);
+  color: white;
+  max-width: 30%;
+  border-radius: 10px;
+  margin: 0 35% 0;
+}
+
+.coin img{
+  max-width: 50px;
+}
