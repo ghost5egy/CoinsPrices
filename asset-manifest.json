@@ -1,15 +1,15 @@
 {
-  "main.css": "CryptoPrices.github.io/static/css/main.eda477db.chunk.css",
-  "main.js": "CryptoPrices.github.io/static/js/main.86fb538a.chunk.js",
-  "main.js.map": "CryptoPrices.github.io/static/js/main.86fb538a.chunk.js.map",
-  "static/js/1.10e59a8b.chunk.js": "CryptoPrices.github.io/static/js/1.10e59a8b.chunk.js",
-  "static/js/1.10e59a8b.chunk.js.map": "CryptoPrices.github.io/static/js/1.10e59a8b.chunk.js.map",
-  "static/js/2.79d0b3cc.chunk.js": "CryptoPrices.github.io/static/js/2.79d0b3cc.chunk.js",
-  "static/js/2.79d0b3cc.chunk.js.map": "CryptoPrices.github.io/static/js/2.79d0b3cc.chunk.js.map",
-  "runtime~main.js": "CryptoPrices.github.io/static/js/runtime~main.62ace6af.js",
-  "runtime~main.js.map": "CryptoPrices.github.io/static/js/runtime~main.62ace6af.js.map",
-  "static/css/main.eda477db.chunk.css.map": "CryptoPrices.github.io/static/css/main.eda477db.chunk.css.map",
-  "index.html": "CryptoPrices.github.io/index.html",
-  "precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js": "CryptoPrices.github.io/precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js",
-  "service-worker.js": "CryptoPrices.github.io/service-worker.js"
+  "main.css": "CryptoPrices/static/css/main.eda477db.chunk.css",
+  "main.js": "CryptoPrices/static/js/main.86fb538a.chunk.js",
+  "main.js.map": "CryptoPrices/static/js/main.86fb538a.chunk.js.map",
+  "static/js/1.10e59a8b.chunk.js": "CryptoPrices/static/js/1.10e59a8b.chunk.js",
+  "static/js/1.10e59a8b.chunk.js.map": "CryptoPrices/static/js/1.10e59a8b.chunk.js.map",
+  "static/js/2.79d0b3cc.chunk.js": "CryptoPrices/static/js/2.79d0b3cc.chunk.js",
+  "static/js/2.79d0b3cc.chunk.js.map": "CryptoPrices/static/js/2.79d0b3cc.chunk.js.map",
+  "runtime~main.js": "CryptoPrices/static/js/runtime~main.62ace6af.js",
+  "runtime~main.js.map": "CryptoPrices/static/js/runtime~main.62ace6af.js.map",
+  "static/css/main.eda477db.chunk.css.map": "CryptoPrices/static/css/main.eda477db.chunk.css.map",
+  "index.html": "CryptoPrices/index.html",
+  "precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js": "CryptoPrices/precache-manifest.5a7ba092e171ae97b6ad2eb8d21edc83.js",
+  "service-worker.js": "CryptoPrices/service-worker.js"
 }
